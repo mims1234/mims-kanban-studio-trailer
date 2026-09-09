@@ -2,37 +2,36 @@
 
 Product: [kanban-studio.genxmims.org](https://kanban-studio.genxmims.org/)
 
-This repo holds the trailer package for the live site — a compositor's kanban. Boards, columns, and cards live in the browser. Never on a server.
+Hero of this cut: **Studio kit / Operator** — Ask to create or reshape a board. Every tool waits for your allow.
 
-## What you can use today
+## Play this
 
-1. **Playable HTML cut** — open [`trailer.html`](./trailer.html) in a browser. It autoplays a 24s paper-stock sequence using the real brand lockup and a 1:1 recreation of the Sample board.
-2. **Voiceover script** — read it over a Loom of the live site for the highest-fidelity version (real cursor, real drag, real kit drawer).
-3. **Shot list** — exact live-UI beats. Sample is look-only, so do not fake a New card click on Sample.
+Open [`trailer.html`](./trailer.html) in a browser. 24s paper-stock sequence. Hit Replay.
+Do not open the raw GitHub URL as a video — it is HTML, not an MP4.
 
-## Voiceover (~22s, quiet, dry)
+If a previous MP4 would not play: that file was empty (0 bytes). A player-safe encode is H.264 Main + AAC + yuv420p + faststart.
 
-> A compositor's kanban.
-> Boards live in this browser — never on our servers.
-> Colour dots are inks. Rush is class of service.
-> A blocked card wears a hatch — the count stays honest.
-> The column fills. The limit holds the line.
-> MiMs Kanban Studio. Start from Boards.
+## Voiceover (~20s)
 
-## 24s cut
+> Studio kit. The operator.
+> Ask to reshape a board. Tools wait for your allow.
+> Every applied pass is backed up.
+> One pass. The limit holds the line.
+> Twelve guest credits. MiMs Kanban Studio.
 
-| Time | Plate | On screen |
-| --- | --- | --- |
-| 0.00–0.03 | `og.jpg` lockup, rust crop marks | silence, paper |
-| 0.03–0.08 | Sample board wide | Commission → Make-ready 2/2 → On press → Proof → Bound |
-| 0.08–0.12 | Mix the ink slip | Warm black · 4d in galley · Ada · Blocked |
-| 0.12–0.16 | Specify the cotton stock + limit | checklist 1/2 · Make-ready Due in 3d · limit 2 |
-| 0.16–0.20 | Calendar / Studio kit / lamp | Cards stay in your browser |
-| 0.20–0.24 | Lockup + URL | kanban-studio.genxmims.org |
+## 24s cut — kit is the hero
 
-## Do not
+| Time | On screen |
+| --- | --- |
+| 0.00–0.03 | og.jpg lockup |
+| 0.03–0.07 | Sample desk + Studio kit chip (12 credits) |
+| 0.07–0.12 | Operator drawer. Prompt: wedding suite / Mix the ink blocked. Setting type… |
+| 0.12–0.17 | Allow these tools? Build or rebuild a board / Add one card / Move a card |
+| 0.17–0.21 | Board after apply. Make-ready 2/2. Revert last AI pass |
+| 0.21–0.24 | Lockup + kanban-studio.genxmims.org |
 
-- Do not invent Trello columns.
-- Do not click New card on Sample. It is disabled (look-only).
-- Do not run image-to-video on UI screenshots — it garbles type.
-- Do not write SaaS-bro copy. Use the product's tour voice.
+## Exact kit labels (live product)
+
+Studio kit · Operator · Ask · Allow session · Allow these tools? · Allow · Always allow this session · Deny · Send · Stop · Revert last AI pass · Setting type… · The operator is working… · Applied.
+
+Placeholder: Create or customize this kanban…

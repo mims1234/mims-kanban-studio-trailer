@@ -1,6 +1,5 @@
-A compositor's kanban.
-Boards live in this browser — never on our servers.
-Colour dots are inks. Rush is class of service.
-A blocked card wears a hatch — the count stays honest.
-The column fills. The limit holds the line.
-MiMs Kanban Studio. Start from Boards.
+Studio kit. The operator.
+Ask to reshape a board. Tools wait for your allow.
+Every applied pass is backed up.
+One pass. The limit holds the line.
+Twelve guest credits. MiMs Kanban Studio.
