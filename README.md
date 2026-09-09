@@ -1,37 +1,15 @@
-# MiMs Kanban Studio — trailer kit
+# MiMs Kanban Studio trailer — type the board
 
-Product: [kanban-studio.genxmims.org](https://kanban-studio.genxmims.org/)
+Open [`trailer.html`](./trailer.html) in Chrome. It is HTML, not an MP4.
 
-Hero of this cut: **Studio kit / Operator** — Ask to create or reshape a board. Every tool waits for your allow.
+Hero: user types into **Studio kit / Operator** to CREATE or UPDATE a kanban.
 
-## Play this
+## Three real-world asks on screen
 
-Open [`trailer.html`](./trailer.html) in a browser. 24s paper-stock sequence. Hit Replay.
-Do not open the raw GitHub URL as a video — it is HTML, not an MP4.
+1. Editorial (product’s own suggestion): *Create a weekly editorial kanban with To Commission, Writing, Edit, Proof, and Published, plus a few cards.*
+2. Hiring: *Build a hiring board. Columns Applied, Screen, Interview limit 2, Offer, Hired. Add Maya Chen in Interview, blocked on take-home.*
+3. Launch: rush cards on Spec / Build / QA.
 
-If a previous MP4 would not play: that file was empty (0 bytes). A player-safe encode is H.264 Main + AAC + yuv420p + faststart.
+Flow each time: type → Setting type… → Allow these tools? → Applied. Credits 12 → 9 → 6.
 
-## Voiceover (~20s)
-
-> Studio kit. The operator.
-> Ask to reshape a board. Tools wait for your allow.
-> Every applied pass is backed up.
-> One pass. The limit holds the line.
-> Twelve guest credits. MiMs Kanban Studio.
-
-## 24s cut — kit is the hero
-
-| Time | On screen |
-| --- | --- |
-| 0.00–0.03 | og.jpg lockup |
-| 0.03–0.07 | Sample desk + Studio kit chip (12 credits) |
-| 0.07–0.12 | Operator drawer. Prompt: wedding suite / Mix the ink blocked. Setting type… |
-| 0.12–0.17 | Allow these tools? Build or rebuild a board / Add one card / Move a card |
-| 0.17–0.21 | Board after apply. Make-ready 2/2. Revert last AI pass |
-| 0.21–0.24 | Lockup + kanban-studio.genxmims.org |
-
-## Exact kit labels (live product)
-
-Studio kit · Operator · Ask · Allow session · Allow these tools? · Allow · Always allow this session · Deny · Send · Stop · Revert last AI pass · Setting type… · The operator is working… · Applied.
-
-Placeholder: Create or customize this kanban…
+Live site: https://kanban-studio.genxmims.org/
